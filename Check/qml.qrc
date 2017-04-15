@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>EditForm.qml</file>
+        <file>Edit_rotate.qml</file>
+        <file>AddForm.qml</file>
+        <file>ChooseForm.qml</file>
+        <file>AddImgForm.qml</file>
+    </qresource>
+</RCC>
